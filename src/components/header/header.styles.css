@@ -1,0 +1,4 @@
+li, li:active, li:focus {
+	color: #fff;
+	text-decoration: underline;
+}

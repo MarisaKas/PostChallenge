@@ -1,0 +1,41 @@
+.result-container {
+  display: flex;
+  flex-direction: column;
+  background-color: #fff;
+  -moz-osx-font-smoothing: grayscale;
+  backface-visibility: hidden;
+  transform: translateZ(0);
+  transition: transform 0.25s ease-out;
+  width: 450px;
+  font-family: 'Roboto';
+}
+
+.back-card {
+  overflow: auto;
+  position: relative;
+}
+
+
+.front-content h1 {
+  position: relative;
+  text-align: center;
+  color: #000;
+  font-size: 25px;
+  line-height: 25px;
+  padding: 10px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.front-content h2 {
+  text-align: center;
+  color: #000;
+  font-size: 17px;
+  font-weight: normal;
+  line-height: 25px;
+  margin: 0;
+}
+
+
+
+

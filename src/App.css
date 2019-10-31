@@ -1,0 +1,31 @@
+.App {
+  text-align: left;
+  display: grid;
+  grid-template-columns: auto;
+  grid-gap: 10px;
+  background-color: #fff;
+  padding: 10px;
+  font-family: 'Roboto';
+}
+
+.header {
+  padding: 10px 16px;
+  background: #555;
+  color: #fff;
+}
+
+.content {
+  padding: 16px;
+}
+
+
+
+
+.result{
+	padding: 15px 30px;
+}
+
+h1 {
+  font-size: 50px;
+  color: #000;
+}
